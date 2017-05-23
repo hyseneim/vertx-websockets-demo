@@ -1,0 +1,22 @@
+{
+  "name": "vertx-websockets-demo",
+  "homepage": "https://github.com/vert-x3/vertx-maven-starter",
+  "authors": [
+    "Gabriele Cipolloni <gabri9501@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vertx3-eventbus-client": "^3.4.1",
+    "sockjs-client": "^1.1.4"
+  }
+}

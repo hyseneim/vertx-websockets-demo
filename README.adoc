@@ -1,4 +1,4 @@
-= Vert.x Maven Starter
+= Vert.x WebSockets Demo
 
 This project is a template to start your own Vert.x project using Apache Maven.
 

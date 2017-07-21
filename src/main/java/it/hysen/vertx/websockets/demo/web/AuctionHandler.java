@@ -1,4 +1,4 @@
-package it.seizeions.vertx.websockets.demo.web;
+package it.hysen.vertx.websockets.demo.web;
 
 import java.math.BigDecimal;
 import java.util.Optional;
@@ -7,9 +7,9 @@ import io.vertx.core.json.Json;
 import io.vertx.core.logging.Logger;
 import io.vertx.core.logging.LoggerFactory;
 import io.vertx.ext.web.RoutingContext;
-import it.seizeions.vertx.websockets.demo.entity.Auction;
-import it.seizeions.vertx.websockets.demo.repository.AuctionRepository;
-import it.seizeions.vertx.websockets.demo.validator.AuctionValidator;
+import it.hysen.vertx.websockets.demo.entity.Auction;
+import it.hysen.vertx.websockets.demo.repository.AuctionRepository;
+import it.hysen.vertx.websockets.demo.validator.AuctionValidator;
 
 public class AuctionHandler {
 	

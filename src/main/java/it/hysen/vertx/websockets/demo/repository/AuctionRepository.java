@@ -1,11 +1,11 @@
-package it.seizeions.vertx.websockets.demo.repository;
+package it.hysen.vertx.websockets.demo.repository;
 
 import java.math.BigDecimal;
 import java.util.Optional;
 
 import io.vertx.core.shareddata.LocalMap;
 import io.vertx.core.shareddata.SharedData;
-import it.seizeions.vertx.websockets.demo.entity.Auction;
+import it.hysen.vertx.websockets.demo.entity.Auction;
 
 public class AuctionRepository {
 	

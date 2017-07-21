@@ -1,4 +1,4 @@
-package it.seizeions.vertx.websockets.demo.starter;
+package it.hysen.vertx.websockets.demo.starter;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;
@@ -12,9 +12,9 @@ import io.vertx.ext.web.handler.sockjs.BridgeEventType;
 import io.vertx.ext.web.handler.sockjs.BridgeOptions;
 import io.vertx.ext.web.handler.sockjs.PermittedOptions;
 import io.vertx.ext.web.handler.sockjs.SockJSHandler;
-import it.seizeions.vertx.websockets.demo.repository.AuctionRepository;
-import it.seizeions.vertx.websockets.demo.validator.AuctionValidator;
-import it.seizeions.vertx.websockets.demo.web.AuctionHandler;
+import it.hysen.vertx.websockets.demo.repository.AuctionRepository;
+import it.hysen.vertx.websockets.demo.validator.AuctionValidator;
+import it.hysen.vertx.websockets.demo.web.AuctionHandler;
 
 public class AuctionServiceVerticle extends AbstractVerticle {
 	

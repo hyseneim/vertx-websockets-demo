@@ -1,4 +1,4 @@
-package it.seizeions.vertx.websockets.demo.starter;
+package it.hysen.vertx.websockets.demo.starter;
 
 import io.vertx.core.Vertx;
 import io.vertx.core.logging.Logger;

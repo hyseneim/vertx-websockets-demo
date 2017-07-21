@@ -11,7 +11,7 @@
 
   <properties>
     <vertx.version>3.4.1</vertx.version>
-    <main.verticle>it.seizeions.vertx.websockets.demo.starter.AuctionServiceVerticle</main.verticle>
+    <main.verticle>it.hysen.vertx.websockets.demo.starter.AuctionServiceVerticle</main.verticle>
   </properties>
 
   <dependencyManagement>

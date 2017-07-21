@@ -1,4 +1,4 @@
-package it.seizeions.vertx.websockets.demo.repository.exceptions;
+package it.hysen.vertx.websockets.demo.repository.exceptions;
 
 public class AuctionNotFoundException extends RuntimeException {
 	

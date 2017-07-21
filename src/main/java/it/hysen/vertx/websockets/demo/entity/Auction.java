@@ -1,4 +1,4 @@
-package it.seizeions.vertx.websockets.demo.entity;
+package it.hysen.vertx.websockets.demo.entity;
 
 import java.math.BigDecimal;
 

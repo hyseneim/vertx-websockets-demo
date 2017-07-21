@@ -1,8 +1,8 @@
-package it.seizeions.vertx.websockets.demo.validator;
+package it.hysen.vertx.websockets.demo.validator;
 
-import it.seizeions.vertx.websockets.demo.entity.Auction;
-import it.seizeions.vertx.websockets.demo.repository.AuctionRepository;
-import it.seizeions.vertx.websockets.demo.repository.exceptions.AuctionNotFoundException;
+import it.hysen.vertx.websockets.demo.entity.Auction;
+import it.hysen.vertx.websockets.demo.repository.AuctionRepository;
+import it.hysen.vertx.websockets.demo.repository.exceptions.AuctionNotFoundException;
 
 public class AuctionValidator {
 	
